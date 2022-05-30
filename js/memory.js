@@ -1,3 +1,10 @@
+
+
+
+//_________________________________________________________________HO MODIFICATO IL CODICE DELLA TRACCIA (VEDI RIGA 136) SOLO PERCHE' ALTRIMENTI NON FUNZIONAVA
+
+
+
 let arrayAnimali = ['🐱', '🦉', '🐾', '🦁', '🦋', '🐛', '🐝', '🐬', '🦊', '🐨', '🐰', '🐯', '🐱', '🦉', '🐾', '🦁', '🦋', '🐛', '🐝', '🐬', '🦊', '🐨', '🐯', '🐰'];
 //libreria per icone
 //https://html-css-js.com/html/character-codes/
@@ -126,8 +133,8 @@ function displayIcon() {
             arrayComparison[0].classList.add("disabled");
             arrayComparison[1].classList.add("disabled");
             
-/*             icons.forEach(function(item) {
-                item.classList.add('disabled');       //HO DOVUTO LEVARE QUESTA E CAMBIARE COME SOPRA ALTRIMENTI NON MI FUNZIONA
+/*             icons.forEach(function(item) {               //HO DOVUTO LEVARE QUESTA E CAMBIARE COME SOPRA ALTRIMENTI NON MI FUNZIONA
+                item.classList.add('disabled');       
             }); */
 
 
